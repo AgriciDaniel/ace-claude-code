@@ -1,11 +1,11 @@
-# A.C.E. - Autonomous Creation Engine
+# A.C.E. - Agent Creates Everything
 
 A unified multi-agent orchestration system for [Claude Code](https://claude.ai/code).
 
 ```
          +======================================================+
          |                    A C E                             |
-         |          Autonomous Creation Engine                  |
+         |          Agent Creates Everything                  |
          +======================================================+
 
     +----------------------------------------------------------+

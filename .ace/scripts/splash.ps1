@@ -17,7 +17,7 @@ Clear-Host
 Write-Host ""
 Write-Host "$Purple         +======================================================+$Reset"
 Write-Host "$Purple         |$Pink                    A C E$Purple                         |$Reset"
-Write-Host "$Purple         |$Gray          Autonomous Creation Engine$Purple              |$Reset"
+Write-Host "$Purple         |$Gray          Agent Creates Everything$Purple              |$Reset"
 Write-Host "$Purple         +======================================================+$Reset"
 Write-Host ""
 Write-Host "$Gray    +----------------------------------------------------------+$Reset"

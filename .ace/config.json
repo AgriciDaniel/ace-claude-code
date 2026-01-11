@@ -1,7 +1,7 @@
 {
   "name": "Ace",
   "version": "4.0.0",
-  "description": "Autonomous Creation Engine",
+  "description": "Agent Creates Everything",
 
   "orchestration": {
     "mode": "parallel",
